@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter, PHP, Laravel**
 
-- 📫 How to reach me **gausoft@protonmail.com**
+- 📫 How to reach me **gausoft@proton.me**
 
 - ⚡ Fun fact **I love Flutter!**
 
