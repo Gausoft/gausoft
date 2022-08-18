@@ -78,6 +78,7 @@
 
 ### 📕 Latest blog posts
 
+* [Pourquoi instaurer les revues de code?](https://gausoft.dev/blog/pourquoi-instaurer-les-revues-de-code)
 * [Bienvenue sur mon blog](https://gausoft.herokuapp.com/bienvenue-sur-mon-blog)
 * [Comment intégrer la passerelle de paiement Paygate (Togo) à Laravel?](https://gausoft.medium.com/comment-int%C3%A9grer-la-passerelle-de-paiement-paygate-togo-%C3%A0-laravel-67baee3bdb6b)
 
