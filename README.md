@@ -1,16 +1,16 @@
 <h1 align="center">
   <samp>Hi 👋🏾, I'm Gauthier EHOLOUM <samp> <br>
-  (aka gausoft)
+  (aka. gausoft)
 </h1>
     
     
 <p align="center">
   <samp>
-    Backend PHP Developer @ITVOG | Will code for amazing projects and stock options | Ping Pong, Cartoon & Animes lover
+    Backend PHP Developer @INFINITUS | Will code for amazing projects and stock options | Ping Pong, Cartoon & Animes lover
   </samp>
 </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Figma & Data Analysis**
 
 - 💬 Ask me about **Flutter, PHP, Laravel**
 
